@@ -5,9 +5,9 @@ float b = 8.0/3.0;
 float r = 28.0;
 float dt = 0.01;
 
-float x = 0.0;
-float y = 0.01;
-float z = 0.0;
+float x = 2;
+float y = 1;
+float z = 1;
 
 ArrayList<PVector> points = new ArrayList<PVector>();
 PeasyCam jCam;
